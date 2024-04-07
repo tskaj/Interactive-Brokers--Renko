@@ -1,9 +1,6 @@
-# Interactive-Brokers--Renko
-Created a desktop application in Python that interfaces with Interactive Brokers (IB) and displays basic Renko charts for three instruments.
-
 Ensure these requirements for the application to execute:
 
-Here's a step-by-step guide for you to execute the Python script:
+Of course! Here's a step-by-step guide for you to execute the Python script:
 
 1. **Install Python**: If you haven't already, please install Python on your computer. You can download it from the official website [python.org](https://www.python.org/) and follow the installation instructions for your operating system.
 
